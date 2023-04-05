@@ -21,4 +21,6 @@ save the file and give execute permission
 chmod +x hello.py
 
 now on command line execute ./hello.py
+here . represent current dir.
+If your file is in another location then you have to provide complete path to run the program.
 this will execute the program.
