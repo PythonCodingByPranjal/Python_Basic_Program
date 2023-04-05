@@ -1,0 +1,12 @@
+special character of python
+\n to break lines.
+write special chars only inside of quotes thats may be single or double quation. 
+\n ------new line
+\b ------back space this will back cursor one position back
+\b\b---- this will remove two space before the cursor
+\t ---- used for tab
+
+suppose you are using 
+print('this is an example's of character')
+you will get error because of the quotations. in case of this you have to write escape character \ in front of quotations 
+print('this is an example\'s of character')
