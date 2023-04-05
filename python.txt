@@ -11,3 +11,14 @@ print('this is an example's of character')
 you will get error because of the quotations. in case of this you have to write escape character \ in front of quotations 
 print('this is an example\'s of character')
 \-------is a escape character
+if you are going to use backward \ slash as a path or locatin that time you need to use double backword place like \\
+*************************************************************
+in linux based system we can run python program by using
+#!/usr/local/bin/python3
+print("Hello World")
+
+save the file and give execute permission
+chmod +x hello.py
+
+now on command line execute ./hello.py
+this will execute the program.
